@@ -12,4 +12,6 @@ npm publish<br>
 
 update<br>
 change "version" in package.json<br>
-npm publish
+npm publish<br>
+
+https://cdn.jsdelivr.net/npm/cgnpm/index.js
