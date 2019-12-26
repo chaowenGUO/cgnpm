@@ -7,4 +7,4 @@ Email: (this IS public) chaowen.guo1@gmail.com<br>
 
 git clone https://github.com/chaowenGUO/cgnpm.git<br>
 cd cgnpm<br>
-npm publish<br>
+npm publish
