@@ -14,4 +14,5 @@ update<br>
 change "version" in package.json<br>
 npm publish<br>
 
-https://cdn.jsdelivr.net/npm/cgnpm/index.js
+https://cdn.jsdelivr.net/npm/cgnpm/index.js<br>
+npm unpublish cgnpm --force
