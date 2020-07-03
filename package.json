@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/chaowenGUO/cgnpm/issues"
   },
-  "homepage": "https://github.com/chaowenGUO/cgnpm#readme"
+  "homepage": "https://github.com/chaowenGUO/cgnpm#readme",
+  "type": "module"
 }
